@@ -4,7 +4,7 @@
 
 A tiny pixel pet that lives at the bottom of your Mac screen and keeps an eye on your **Claude Code** and **Codex** sessions and weekly usage.
 
-**[⬇ Download for Mac (free)](https://github.com/Canine89/dotoken-pals-releases/releases/latest/download/DotokenPals.dmg)** · **[Get Pro ($7.99)](https://gumroad.com)** · macOS 13+ · Apple Silicon & Intel
+**[⬇ Download for Mac (free)](https://github.com/Canine89/dotoken-pals-releases/releases/latest/download/DotokenPals.dmg)** · **[Get Pro ($7.99)](https://2031900017128.gumroad.com/l/dotokenpals)** · macOS 13+ · Apple Silicon & Intel
 
 ## What it does
 
@@ -31,7 +31,7 @@ A tiny pixel pet that lives at the bottom of your Mac screen and keeps an eye on
 
 ![Themes](images/themes.png)
 
-Pro is a one-time purchase for 2 Macs, with free updates. Activate it from the menu bar: **Activate Pro…**
+Pro is a one-time purchase for 2 Macs, with free updates — [get it on Gumroad](https://2031900017128.gumroad.com/l/dotokenpals). Activate it from the menu bar: **Activate Pro…**
 
 ## Install
 
